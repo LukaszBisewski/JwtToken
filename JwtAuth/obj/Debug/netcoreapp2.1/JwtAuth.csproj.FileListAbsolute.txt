@@ -1,0 +1,14 @@
+C:\Users\Łukasz\source\repos\Repo\JwtAuth\JwtAuth\bin\Debug\netcoreapp2.1\JwtAuth.deps.json
+C:\Users\Łukasz\source\repos\Repo\JwtAuth\JwtAuth\bin\Debug\netcoreapp2.1\JwtAuth.runtimeconfig.json
+C:\Users\Łukasz\source\repos\Repo\JwtAuth\JwtAuth\bin\Debug\netcoreapp2.1\JwtAuth.runtimeconfig.dev.json
+C:\Users\Łukasz\source\repos\Repo\JwtAuth\JwtAuth\bin\Debug\netcoreapp2.1\JwtAuth.dll
+C:\Users\Łukasz\source\repos\Repo\JwtAuth\JwtAuth\bin\Debug\netcoreapp2.1\JwtAuth.pdb
+C:\Users\Łukasz\source\repos\Repo\JwtAuth\JwtAuth\obj\Debug\netcoreapp2.1\JwtAuth.csprojAssemblyReference.cache
+C:\Users\Łukasz\source\repos\Repo\JwtAuth\JwtAuth\obj\Debug\netcoreapp2.1\JwtAuth.csproj.CoreCompileInputs.cache
+C:\Users\Łukasz\source\repos\Repo\JwtAuth\JwtAuth\obj\Debug\netcoreapp2.1\JwtAuth.RazorAssemblyInfo.cache
+C:\Users\Łukasz\source\repos\Repo\JwtAuth\JwtAuth\obj\Debug\netcoreapp2.1\JwtAuth.RazorAssemblyInfo.cs
+C:\Users\Łukasz\source\repos\Repo\JwtAuth\JwtAuth\obj\Debug\netcoreapp2.1\JwtAuth.AssemblyInfoInputs.cache
+C:\Users\Łukasz\source\repos\Repo\JwtAuth\JwtAuth\obj\Debug\netcoreapp2.1\JwtAuth.AssemblyInfo.cs
+C:\Users\Łukasz\source\repos\Repo\JwtAuth\JwtAuth\obj\Debug\netcoreapp2.1\JwtAuth.RazorTargetAssemblyInfo.cache
+C:\Users\Łukasz\source\repos\Repo\JwtAuth\JwtAuth\obj\Debug\netcoreapp2.1\JwtAuth.dll
+C:\Users\Łukasz\source\repos\Repo\JwtAuth\JwtAuth\obj\Debug\netcoreapp2.1\JwtAuth.pdb
